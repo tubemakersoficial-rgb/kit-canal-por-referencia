@@ -1,0 +1,8 @@
+{
+  "name": "hyperframes-local",
+  "private": true,
+  "description": "Renderizador das animações em HTML do kit (instale com: npm install)",
+  "dependencies": {
+    "hyperframes": "^0.9.9"
+  }
+}

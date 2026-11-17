@@ -1,0 +1,19 @@
+node_modules/
+__pycache__/
+*.pyc
+
+# referência e produção (pesado / de terceiros)
+referencia/*
+!referencia/LEIA-ME.md
+videos/*/work/
+videos/*/*.mp4
+videos/*/*.wav
+videos/*/*.mp3
+
+# identidade do seu canal (tire daqui se quiser versionar)
+canal/personagens/*
+canal/recortes/*
+!canal/personagens/.gitkeep
+!canal/recortes/.gitkeep
+
+.env
