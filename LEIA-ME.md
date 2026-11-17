@@ -79,6 +79,12 @@ videos/NN-tema/    cada vídeo: roteiros, work/ (produção), vídeo final, capa
 - **Contas:** o Claude nunca digita senhas. Você faz o login no Higgsfield, no Google e no YouTube.
 - **Publicar é com você.** O Claude entrega o vídeo, as capas e a descrição, mas não publica.
 
+## Licença
+
+O kit (skill, guias, scripts e modelos) é distribuído sob a licença MIT: veja o arquivo `LICENSE`. Você pode usar, modificar e redistribuir, mantendo o aviso de direitos autorais.
+
+Os arquivos de terceiros em `ferramentas/assets/` seguem as licenças dos próprios autores: as fontes Chewy e Baloo 2 (SIL Open Font License) e a biblioteca GSAP (licença da GreenSock).
+
 ## Créditos
 
 Fontes: Chewy e Baloo 2 (Google Fonts, licença SIL Open Font License). Animação: GSAP. Render: HyperFrames.
